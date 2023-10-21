@@ -1,7 +1,21 @@
-# Horiseon Website Refactor
+# Horiseon Website Refactor for Accessibility and SEO
 
 ## Description
 
+Refactor of marketing agency website to ensure that the codebase follows accessibility standards
+and is optimized for search engines
+
+Here is the link to the deployed application: https://whefert.github.io/horiseon-website-refactor/
+
+### Acceptance Criteria
+
+The website must meet accessibility standards including but not limited to:
+
+- Semantic HTML elements can be found throughout the source code
+- HTML elements follow a logical structure independent of styling and positioning
+- Image and icon elements contain accessible `alt` attributes
+- Heading attributes fall in sequential order
+- Title elements contain a concise, descriptive title
 
 ## Installation
 
@@ -9,7 +23,7 @@ N/A
 
 ## Usage
 
-To use this Horiseon Website Refactor, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+To use the refactored Horiseon Website, simply visit the url for the deployed application and use the links in the header to navigate the page.
 
 ## Credits
 
